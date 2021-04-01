@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NodeJS & Python.
 - 💞️ I’m looking to collaborate.
 - 📫 Reach me on icloud.rayhan@gmail.com
+- 😄 Pronouns: he/him
 
 
 ### Languages
