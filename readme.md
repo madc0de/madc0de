@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [Rayhan](@madc0de)
+- 🏫 I'm currently studing Civil Engineering
 - 👀 I’m interested in JamStack and Serverless.
 - 🌱 I’m currently learning NodeJS & Python.
 - 💞️ I’m looking to collaborate.
